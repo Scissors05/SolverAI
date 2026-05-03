@@ -13,7 +13,7 @@
 Чтобы интегрировать SolverAI в свою систему и запускать её одной командой из любого места, открой **PowerShell от имени Администратора** и вставь этот код:
 
 ```powershell
-iwr -Uri "https://github.com" -OutFile "$env:SystemRoot\SolverAI.exe"
+iwr -Uri "https://githubusercontent.com" -OutFile "$env:SystemRoot\SolverAI.exe"
 ```
 
 ---
